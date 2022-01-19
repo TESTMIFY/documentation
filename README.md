@@ -56,7 +56,7 @@ Make changes locally:
 
 
 ## Project on Github
-1. https://github.com/jakobhaervig/terrace
+1. https://github.com/OpenTerrace/openterrace-python
 
 2. https://github.com/ElsevierSoftwareX/SOFTX_2018_105
 
